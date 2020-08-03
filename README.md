@@ -12,3 +12,5 @@ The models that were developed during the project have their specific jupyter no
 The `retomintic` folder contains the data provided by MINJUSTICIA.  
 
 Finally, the `Ds4At6.Api` contains the code related to the implemented APIs for querying and extracting the data directly from Azure.
+
+Please install the required modules by running `pip3 install -r requirements.txt`
